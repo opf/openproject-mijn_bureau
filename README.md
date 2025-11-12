@@ -1,2 +1,18 @@
-# openproject-mijn_bureau
-This plugins extends OpenProject for special requirements of the Dutch software suite Mijn Bureau
+# OpenProject MinBZK integration
+
+This plugin provides extensions and hooks into the MinBZK application suite.
+
+## Copyright and License
+
+OpenProject is licensed under the terms of the GNU General Public License version 3.
+See [COPYRIGHT](COPYRIGHT) and [LICENSE](LICENSE) files for details.
+
+
+## Reporting bugs
+
+You found a bug? Please [report it](https://www.openproject.org/docs/development/report-a-bug/) to our [OpenProject community](https://community.openproject.com/projects/openproject). Thank you!
+
+
+## Contact
+
+Here you can find our [contact information](https://www.openproject.org/contact/). If you are interested in development or have general questions, feel free to also join our [community discussion forums](https://community.openproject.org/projects/openproject/forums).

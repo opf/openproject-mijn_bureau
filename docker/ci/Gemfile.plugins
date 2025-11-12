@@ -1,0 +1,3 @@
+group :opf_plugins do
+  gem "openproject-mijn-bureau", path: "modules/openproject-mijn-bureau"
+end

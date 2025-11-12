@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+
+gemspec
+
+group :development, :test do
+  gem "lefthook"
+  gem "rubocop", require: false
+  gem "rubocop-inflector", require: false
+  gem "rubocop-openproject", require: false
+  gem "rubocop-performance", require: false
+  gem "rubocop-rails", require: false
+end
